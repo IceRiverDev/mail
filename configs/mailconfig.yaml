@@ -1,0 +1,37 @@
+Google:
+  hosts:
+    POP3:
+      address: pop.gmail.com
+      port: 995
+    SMTP:
+      address: smtp.gmail.com
+      port: 587
+Sina:
+  hosts:
+    POP3:
+      address: pop3.sina.com.cn
+      port: 110
+    SMTP:
+      address: smtp.sina.com.cn
+      port: 25
+163.com:
+  hosts:
+    POP3:
+      address: pop.163.com
+      port: 110
+    SMTP:
+      address: smtp.163.com
+      port: 25
+QQ:
+  hosts:
+    POP3:
+      address: pop.qq.com
+      port: 110
+    SMTP:
+      address: smtp.qq.com
+      port: 25
+      username: 424092928
+      password: tnfsjrmzwlmjcaej
+
+
+
