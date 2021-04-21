@@ -15,3 +15,12 @@ func TestSendMail(t *testing.T) {
 	})
 }
 
+func TestName(t *testing.T) {
+	t.Run("test name", func(t *testing.T) {
+		fmt.Println("Hello World")
+	})
+
+	t.Run("test age", func(t *testing.T) {
+		fmt.Println("Hello God")
+	})
+}
